@@ -34,4 +34,4 @@ This project tracks expenses across the following main categories:
 ---
 *Created as part of a personal finance management project.*
 ## 📊 Dashboard Preview
-<img width="1433" height="698" alt="dashboard png" src="https://github.com/user-attachments/assets/ab87caac-8c3c-4e1a-b650-b9e9c9ade53c" />
+<img width="1397" height="598" alt="dashboard1" src="https://github.com/user-attachments/assets/41c2a95f-e83f-4768-993b-4d9cc2ff70fa" />
