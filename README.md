@@ -18,6 +18,18 @@ An interactive Excel dashboard designed to track daily expenses, analyze spendin
 * **Microsoft Excel:** Data management and formula logic.
 * **Pivot Tables & Charts:** Dynamic data aggregation.
 * **Slicers:** For a user-friendly, interactive interface.
+* ## 📁 Data Structure
+This project tracks expenses across the following main categories:
+
+| Column Name | Description | Example Data |
+| :--- | :--- | :--- |
+| **Date** | The day the transaction occurred | 05-04-2026 |
+| **Category** | The type of expense | Food, Rent, Travel, Bills |
+| **Amount** | The total cost in currency | 500 |
+| **Payment Mode** | How the payment was made | UPI, Cash, Credit Card |
+| **Notes** | Brief details about the spend | Lunch at Cafe |
+
+> **Note:** The "Payment Mode" column is specifically used to filter **UPI transactions** for monthly digital spending analysis.
 
 ---
 *Created as part of a personal finance management project.*
